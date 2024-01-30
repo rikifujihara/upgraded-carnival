@@ -1,1 +1,1 @@
-Quick React project to learn some fundamentals.
+Quick React project to learn some fundamentals
